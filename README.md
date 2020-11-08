@@ -1,5 +1,5 @@
-# YTWrapper
-API Wrapper for YouTube made in C++
+# YTWrapper #
+### API Wrapper for YouTube made in C++ ###
 =============
 # Installation
 ## Manual ## 
